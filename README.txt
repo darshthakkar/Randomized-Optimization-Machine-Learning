@@ -1,4 +1,4 @@
-Installation of Jython v2.7.0 is required for running these programs. 
+Installation of Python and Jython v2.7.0 is required for running these programs. 
 	- Install Jython from https://www.jython.org/downloads.html
 	- Set up path in environment variables (Windows)
 
